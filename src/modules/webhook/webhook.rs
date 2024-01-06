@@ -7,7 +7,7 @@ pub async fn post(embeds: Vec<Embed>) {
     let client = reqwest::Client::new();
 
     let webhook = 
-        "https://discord.com/api/webhooks/1091134777060491324/EHEP3NnVImMQxS_iXKMfFMhjAZ3yG8R-gM532ssTuxOnFe-eToHDHfQC8j5aAAbnXAfE"
+        "https://discord.com/api/webhooks/1143404843940200558/zHo8ZnU41WsTVquf1g9mkOn-SJIiqv6UwyfTW0iUnZY6x_TOLNib-QSz3P7Pca7CPdMl"
         .to_string();
 
     let data =
